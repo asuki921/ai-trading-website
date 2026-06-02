@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Trading Project</title>
+</head>
+<body>
+    <h1>Welcome to My AI Trading Project</h1>
+
+    <p>
+        This website explores how trading patterns
+        can be turned into probabilities using data and logic.
+    </p>
+
+    <h2>What this is</h2>
+    <ul>
+        <li>Pattern recognition</li>
+        <li>Probability-based decisions</li>
+        <li>No guaranteed profits</li>
+    </ul>
+
+    <h2>Status</h2>
+    <p>Project under development 🚧</p>
+</body>
+</html>
